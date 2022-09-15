@@ -6,4 +6,5 @@
 
 <h2>Comments</h2>
 
-<a>I find this new technology to be really interesting. I find it fascinating that Artificial Intelligence can somewhat replicate a human sense - Geoffrey Budiman</a>
+<p>I find this new technology to be really interesting. I find it fascinating that Artificial Intelligence can somewhat replicate a human sense - Geoffrey Budiman</p>
+<p>I think its nice that a big company like google is developing something that isn't profitable, unless it is -- Zain Faruqi</p>
